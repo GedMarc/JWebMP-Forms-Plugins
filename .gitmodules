@@ -1,24 +1,32 @@
 [submodule "QuickForms"]
 	path = QuickForms
 	url = https://github.com/GedMarc/JWebMP-QuickForms.git
+	ignore=dirty
 [submodule "BSQuickForms"]
 	path = BSQuickForms
 	url = https://github.com/GedMarc/JWebMP-BSQuickForms4.git
+	ignore=dirty
 [submodule "DataTables"]
 	path = DataTables
 	url = https://github.com/GedMarc/JWebMP-DataTablesPlugin.git
+	ignore=dirty
 [submodule "JQImageHeatMap"]
 	path = JQImageHeatMap
 	url = https://github.com/GedMarc/JWebMP-JQImageHeatMapPlugin.git
+	ignore=dirty
 [submodule "LeafletJS"]
 	path = LeafletJS
 	url = https://github.com/GedMarc/JWebMP-Leaflet.git
+	ignore=dirty
 [submodule "SmartWizard"]
 	path = SmartWizard
 	url = https://github.com/GedMarc/JWebSwing-SmartWizard-Bootstrap4.git
+	ignore=dirty
 [submodule "TextInputEffects"]
 	path = TextInputEffects
 	url = https://github.com/GedMarc/JWebMP-TextInputEffects.git
+	ignore=dirty
 [submodule "XEditable"]
 	path = XEditable
 	url = https://github.com/GedMarc/JWebMP-XEditable.git
+	ignore=dirty
