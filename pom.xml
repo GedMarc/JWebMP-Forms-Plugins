@@ -1,0 +1,32 @@
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.jwebmp.plugins</groupId>
+        <artifactId>jwebmp-plugins-modules</artifactId>
+        <version>0.0.0_0-SNAPSHOT</version>
+    </parent>
+    <groupId>com.jwebmp.plugins.forms</groupId>
+    <artifactId>jwebmp-plugins-forms-parent</artifactId>
+    <packaging>pom</packaging>
+
+    <name>Forms Modules</name>
+    <description>The root module packager for the finalized or modules with no intention of moving to JPMS</description>
+
+    <profiles>
+        <profile>
+            <id>devkit</id>
+            <modules>
+                <module>BSQuickForms</module>
+                <module>DataTables</module>
+                <module>JQImageHeatMap</module>
+                <module>LeafletJS</module>
+                <module>QuickForms</module>
+                <module>SmartWizard</module>
+                <module>TextInputEffects</module>
+                <module>XEditable</module>
+            </modules>
+        </profile>
+    </profiles>
+
+</project>
