@@ -13,20 +13,15 @@
     <name>Forms Modules</name>
     <description>The root module packager for the finalized or modules with no intention of moving to JPMS</description>
 
-    <profiles>
-        <profile>
-            <id>devkit</id>
-            <modules>
-                <module>BSQuickForms</module>
-                <module>DataTables</module>
-                <module>JQImageHeatMap</module>
-                <module>LeafletJS</module>
-                <module>QuickForms</module>
-                <module>SmartWizard</module>
-                <module>TextInputEffects</module>
-                <module>XEditable</module>
-            </modules>
-        </profile>
-    </profiles>
+    <modules>
+        <module>BSQuickForms</module>
+        <module>DataTables</module>
+        <module>JQImageHeatMap</module>
+        <module>LeafletJS</module>
+        <module>QuickForms</module>
+        <module>SmartWizard</module>
+        <module>TextInputEffects</module>
+        <module>XEditable</module>
+    </modules>
 
 </project>
