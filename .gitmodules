@@ -33,3 +33,9 @@
 [submodule "QuickFormsAnnotations"]
 	path = QuickFormsAnnotations
 	url = https://github.com/GedMarc/JWebMP-QuickFormsAnnotations.git
+[submodule "DataTables-Bootstrap"]
+	path = DataTables-Bootstrap
+	url = https://github.com/GedMarc/JWebMP-DataTables-Bootstrap.git
+[submodule "DataTables-DT"]
+	path = DataTables-DT
+	url = https://github.com/GedMarc/JWebMP-DataTables-DTTheme.git
