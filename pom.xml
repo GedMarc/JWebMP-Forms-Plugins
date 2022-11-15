@@ -22,6 +22,11 @@
 				<module>QuickForms</module>
 				<module>QuickFormsAnnotations</module>
 				
+				
+				
+				<module>DataTables-Bootstrap</module>
+				<module>DataTables-DT</module>
+				<module>DataTables</module>
 			<!--
 			
                 <module>BSQuickForms</module>
